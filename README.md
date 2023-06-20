@@ -22,4 +22,7 @@ Here are some ideas to get you started:
 ### Repositories
 #### Account-API [🔗 Link](https://github.com/SpringOnSummer/Account-API)
 
+```{include} https://github.com/SpringOnSummer/.github/blob/main/profile/README.md
+```
+[AA] : https://github.com/SpringOnSummer/.github/blob/main/profile/README.md
 ... ing
